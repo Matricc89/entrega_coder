@@ -362,4 +362,7 @@ footer ul a img{
     .nav-cont .contacto{
         display: none;
     }
+    .nav-cont .nosotros{
+        display: none;
+    }
 }
