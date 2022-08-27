@@ -322,9 +322,11 @@ footer ul a img{
     
         display: none;
     }
-    .sideheader-cont .contacto{
-        display: none;
-
+    
+    .nav-cont{
+        text-align: center;
+        padding-top: 6px;
+        
     }
     .nos-main{
         height: 100%;
@@ -343,6 +345,11 @@ footer ul a img{
         margin: 15px;
     }
     .about2{
+        display: none;
+    }
+}
+@media(max-width:375px){
+    .nav-cont .contacto{
         display: none;
     }
 }
