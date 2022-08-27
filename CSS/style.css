@@ -358,7 +358,7 @@ footer ul a img{
         display: none;
     }
 }
-@media(max-width:408px){
+@media(max-width:508px){
     .nav-cont .contacto{
         display: none;
     }
