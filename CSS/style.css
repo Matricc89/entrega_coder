@@ -46,7 +46,7 @@
 .sideHeader li {
     display: inline-block;
     list-style: none;
-    margin: 0 15px;
+    margin: 0 20px;
     background-color: rgba(0, 255, 255, 0.952);
     border-radius: 20px;
     padding: 12px;
@@ -313,7 +313,7 @@ footer ul a img{
     .sideHeader ul li{
         font-size: 12px;
         margin: 0;
-        padding: 5px;
+        padding: 6px;
         border-radius: 3px;
     }
     
@@ -322,11 +322,21 @@ footer ul a img{
     
         display: none;
     }
-    
+    .sideheader-cont{
+        padding-top: 2px;
+       
+    }
     .nav-cont{
         text-align: center;
         padding-top: 6px;
         
+    }
+    .nav-cont ul li{
+        padding: 4px;
+        
+    }
+    .nav-cont ul{
+        margin-right: 21px;
     }
     .nos-main{
         height: 100%;
